@@ -1,0 +1,6 @@
+{
+    "require": {
+        "leafs/leaf": "^3.0",
+        "leafs/bareui": "^1.1"
+    }
+}
